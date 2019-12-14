@@ -1,6 +1,6 @@
 bloom;
 Miles Boynton, 12-14-2019
-Web Address:
+Web Address:https://mb5940a.github.io/conference/resources.html
 
 Image Citations:
 
